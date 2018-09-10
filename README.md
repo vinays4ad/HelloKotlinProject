@@ -1,2 +1,2 @@
 # HelloKotlinProject
-A simple Hello Kotlin Project
+A simple Hello Kotlin Project from Vinay
